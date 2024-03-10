@@ -1,0 +1,32 @@
+text file 
+
+
+# changes 1
+
+when u clone a file and  clone project from remote to local
+......
+git add .
+git commit -a -m "m used for msg and my message is : --- hello--": save changes to current/ local re[pository
+git push: push changes to remote repository
+git status
+
+git push origin master: "origin: location", "master: branch"
+
+github checkout <branch_name>: "checkout used to switch branches"
+
+git branch: shows all branch in github
+
+git add <file names>: add files in stagging ares, ares ready for commit
+
+git push origin main
+
+
+--------------------------------------
+start ur project from ur local computer
+
+make a floder, initialize git using git init: files in flder will be like: git a.txt b.txt
+
+git init: initualiuze a git repository(if already exist then it will re initialize it )
+
+gut init -> git satus-> git commmit  -m "asdf" -> git push 
+
